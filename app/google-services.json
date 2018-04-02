@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109832599693",
+    "firebase_url": "https://jobpostingproject.firebaseio.com",
+    "project_id": "jobpostingproject",
+    "storage_bucket": "jobpostingproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109832599693:android:fd3b22394c76cd93",
+        "android_client_info": {
+          "package_name": "com.example.karthik.jobpostingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109832599693-v0jvnc9lajfrvdfbptgrriqp7b916cjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karthik.jobpostingproject",
+            "certificate_hash": "fbcefcbb58728978bbd87c51facc79b6967fb65e"
+          }
+        },
+        {
+          "client_id": "109832599693-iv2lkcqk4p477hc3dams3tr14baon2km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HkIivQZ6yxLyUoGFWZzFJAHbolzNDao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109832599693-iv2lkcqk4p477hc3dams3tr14baon2km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
